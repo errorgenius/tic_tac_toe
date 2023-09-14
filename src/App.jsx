@@ -35,7 +35,7 @@ function App() {
     return (
         <div className='game'>
             <div className='game-header'>
-                <img className='logo' src={'/icon.png'} alt='logo'/> <h1>Tic Tac Toe</h1>
+                <img className='logo' src={'./icon.png'} alt='logo'/> <h1>Tic Tac Toe</h1>
             </div>
             <div className='game-content'>
                 <div className='game-board'>
